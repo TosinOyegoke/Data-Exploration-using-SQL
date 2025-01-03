@@ -22,15 +22,6 @@ Generate rolling totals to track cumulative monthly sales.
 5. Ranking and Insights
 Rank top-performing product categories and provinces using DENSE_RANK().
 Extract dates with the highest sales and trends over time.
-Usage
-Clone this repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/your-username/store-sales-staging.git  
-Open the SQL script file in your SQL editor (e.g., SQL Server Management Studio, MySQL Workbench, or PostgreSQL).
-
-Connect to your database containing the store_sales_stagiing table.
 
 Execute the queries step by step or modify them to suit your analysis needs.
 
